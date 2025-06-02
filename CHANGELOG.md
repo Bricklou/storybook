@@ -1,3 +1,8 @@
+## 9.0.5
+
+- Addon A11y: Briefly disable highlights while Axe is running - [#31621](https://github.com/storybookjs/storybook/pull/31621), thanks @ghengeveld!
+- Svelte: Fix source view always using `<wrapper ...>` - [#31639](https://github.com/storybookjs/storybook/pull/31639), thanks @JReinhold!
+
 ## 9.0.4
 
 - Addon Vitest: Fix path comparison on Windows - [#31630](https://github.com/storybookjs/storybook/pull/31630), thanks @valentinpalkovic!
